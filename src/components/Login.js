@@ -109,7 +109,7 @@ export default function LoginFinal({open, handleClose}) {
         >
           <div>
             <Typography level="h4" component="h1">
-              <b>Hello Welcome!</b>
+              <b>Hello World</b>
             </Typography>
             <Typography level="body-sm">Sign in to continue.</Typography>
           </div>
